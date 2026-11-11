@@ -4,13 +4,13 @@ sources [@blackboardguy](https://www.tiktok.com/@blackboardguy) 's paper "On the
 ### Full Paper ↓
 ![paper](resources/the-paper/1.png)
 
-![paper1](resources/the-paper/2.png)
+![paper1](resources/the-paper/2.webp)
 
-![paper2](resources/the-paper/3.png)
+![paper2](resources/the-paper/3.webp)
 
-![paper3](resources/the-paper/4.png)
+![paper3](resources/the-paper/4.webp)
 
-![paper4](resources/the-paper/5.png)
+![paper4](resources/the-paper/5.webp)
 
 
 

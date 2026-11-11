@@ -1,0 +1,2 @@
+# the-soulmate-finder
+sources @blackboardguy 's paper "On the Identifiability  of Latent Romantic Interest: A Sequential Hypothesis Testing and Bayesian Filtering Approach to Determining Whether She Likes You" to automatically determine if it was meant to be. 
